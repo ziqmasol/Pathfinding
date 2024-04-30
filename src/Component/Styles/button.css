@@ -1,0 +1,14 @@
+
+.maze-button{
+    background-color: blue;
+    margin: .5rem;
+    color: white;
+    border: none;
+    outline: none;
+}
+
+.maze-button:hover{
+    background-color: lightblue;
+    transform: scale(1.1);
+}
+
